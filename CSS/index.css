@@ -1,0 +1,59 @@
+body {
+  background-color: royalblue;
+  /* background-image: url(./images/two.jpg);
+  background-size: 2em; */
+}
+
+p {
+  font-size: 20px;
+  color: white;
+}
+/* body :nth-child() */
+
+#glo {
+  background-color: aquamarine;
+}
+
+.test {
+  background-color: orange;
+  border: 2px dotted red;
+}
+
+input {
+  display: block;
+  margin-bottom: 7px;
+  width: 30em;
+  height: 2em;
+  /* padding: ;
+   */
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+.sec__ {
+  background-color: orange;
+  padding: 5px;
+}
+
+.main_sec {
+  background-color: #282a35;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  text-align: center;
+  color: white;
+}
+
+.main_p {
+  font-size: 0.7em;
+}
+
+.main_input {
+  margin: auto auto;
+}
+
+.main_a {
+  color: white;
+  margin-top: 1em;
+  display: block;
+}

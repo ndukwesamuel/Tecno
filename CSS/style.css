@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-size: 20px;
+  color: gold;
+  text-align: center;
+  /* margin-bottom: 1em; */
+  border: 4px solid red;
+  /* padding: 2em; */
+  /* margin-left: 2em;
+  margin-right: 1em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  padding-left: 3em;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  padding-top: 2em; */
+
+  margin: 0 0 0 3em;
+
+  /* margin: ; for all side  */
+  /* margin: 0 0 ; up/down  right/left */
+  /* margin: 0 0 0 0 ; up  right down left */
+}
+
+.llll {
+  background-color: red;
+  text-align: right;
+  color: #fff;
+}
+
+.text_center {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.section_1 {
+  /* background: url(../images/two.jpg);
+  background-size: 5em; */
+  /* background-color: lightblue; */
+  /* background-image: url(../images/two.jpg); */
+  background-attachment: fixed;
+  background-position: right top;
+  background-color: aqua;
+  background-image: url(https://i.guim.co.uk/img/media/665bd1f7144f806dc5a9f29e1fabec21a3633ef0/0_129_4062_2437/master/4062.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=a6ef73761b1051dbd44cf22b7fafeef0);
+  /* background-attachment: ; */
+  background-size: 10em;
+  background-repeat: no-repeat;
+  padding-bottom: 3em;
+}
+
+input {
+  margin: 2em;
+  border: 2px dotted red;
+  outline: none;
+  padding: 1em;
+}
